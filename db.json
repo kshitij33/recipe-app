@@ -1,0 +1,41 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Spaghetti Bolognese",
+        "ingredients": "Spaghetti, Egg, Tomato Sauce",
+        "instructions": "Cook spaghetti and mix with sauce."
+      },
+      {
+        "id": 2,
+        "title": "Chicken Curry",
+        "ingredients": "Chicken, Curry Powder, Coconut Milk, Onion, Garlic, Ginger",
+        "instructions": "Sauté onions, garlic, and ginger. Add chicken and cook until browned. Stir in curry powder and coconut milk. Simmer until chicken is fully cooked."
+      },
+      {
+        "id": 3,
+        "title": "Grilled Cheese Sandwich",
+        "ingredients": "Bread, Cheese, Butter",
+        "instructions": "Butter the bread slices, place cheese between them, and grill until golden brown and the cheese is melted."
+      },
+      {
+        "id": 4,
+        "title": "Caesar Salad",
+        "ingredients": "Romaine Lettuce, Croutons, Caesar Dressing, Parmesan Cheese, Chicken (optional)",
+        "instructions": "Toss lettuce with dressing, add croutons and Parmesan cheese, and top with grilled chicken if desired."
+      },
+      {
+        "id": 5,
+        "title": "Pancakes",
+        "ingredients": "Flour, Eggs, Milk, Baking Powder, Sugar, Butter",
+        "instructions": "Mix flour, baking powder, and sugar. Add eggs and milk, and stir until smooth. Cook on a griddle until bubbles form, then flip and cook until golden brown."
+      }
+    ],
+    "users":[
+        {
+            "user_id": 1,
+            "name":"Kshitij"
+        }
+    ]
+  }
+  
